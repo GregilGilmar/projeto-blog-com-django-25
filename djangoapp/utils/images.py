@@ -1,4 +1,4 @@
-from pathlib import path
+from pathlib import Path
 
 from django.conf import settings
 from PIL import Image
